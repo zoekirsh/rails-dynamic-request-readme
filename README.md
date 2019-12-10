@@ -152,7 +152,7 @@ this record in the `@post` instance variable and make it available to the
 the show view template:
 
 ```erb
-<%# app/views/posts/show.html.erb %>
+<!-- app/views/posts/show.html.erb -->
 <h1><%= @post.title %></h1>
 ```
 
@@ -169,7 +169,7 @@ This will give us a failure since there are no matches on the template yet. To
 implement this fix, update the view:
 
 ```erb
-<%# app/views/posts/show.html.erb %>
+<!-- app/views/posts/show.html.erb -->
 <h1><%= @post.title %></h1>
 <p><%= @post.description %></p>
 ```
