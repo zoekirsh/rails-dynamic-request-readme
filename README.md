@@ -35,7 +35,7 @@ A breakdown of the dynamic route process flow is below:
 
 In review, what's the difference between static and dynamic routes?
 
-- Static routes render pages that have a hard coded path connected to them. For
+- Static routes render pages that have a hard-coded path connected to them. For
   example, the `/welcome` path will always show the `welcome` page.
 
 - Dynamic routes will render different data based on the parameters passed to the
