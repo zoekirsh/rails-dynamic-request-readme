@@ -204,6 +204,3 @@ For right now, just know that it deals with the seven key RESTful routes. In
 this case, we limited it to only make the `show` action available.
 
 Run the tests for a final time, and they should still be passing! Nice work!
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-dynamic-request-readme'>Rails Dynamic Request</a> on Learn.co and start learning to code for free.</p>
-
